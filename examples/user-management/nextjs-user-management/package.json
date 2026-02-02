@@ -25,4 +25,9 @@
     "tailwindcss": "^4.1.11",
     "typescript": "^5"
   }
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "packageManager": "npm@10.2.4"
 }
